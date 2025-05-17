@@ -24,3 +24,24 @@ To view the website locally, follow these steps:
    start index.html
    ```
    depending on your operating system.
+
+## How to Host the Website for Free Using GitHub Pages
+
+To host the website for free using GitHub Pages, follow these steps:
+
+1. Push the repository to GitHub if you haven't already:
+   ```
+   git push origin main
+   ```
+
+2. Go to the repository on GitHub.
+
+3. Click on the "Settings" tab.
+
+4. Scroll down to the "GitHub Pages" section.
+
+5. Under "Source", select the branch you want to use (e.g., `main`).
+
+6. Click "Save".
+
+7. Your website will be published at `https://<your-username>.github.io/<repository-name>/`.

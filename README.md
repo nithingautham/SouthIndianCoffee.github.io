@@ -45,3 +45,7 @@ To host the website for free using GitHub Pages, follow these steps:
 6. Click "Save".
 
 7. Your website will be published at `https://<your-username>.github.io/<repository-name>/`.
+
+## Note
+
+If you encounter a 404 error, ensure that the repository is correctly set up for GitHub Pages and that the URL is correct.

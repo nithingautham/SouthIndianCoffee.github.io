@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #fff;
-    color: #333;
+    color: #fff;
     background-image: url('images/background.jpg');
     background-size: cover;
     background-position: center;
@@ -30,6 +30,7 @@ header.hero p {
 
 section {
     padding: 60px 20px;
+    color: #fff;
 }
 
 section h2 {
@@ -49,6 +50,7 @@ form {
 
 form label {
     margin-bottom: 5px;
+    color: #fff;
 }
 
 form input,
@@ -58,6 +60,7 @@ form textarea {
     font-size: 1em;
     border: 1px solid #ccc;
     border-radius: 5px;
+    color: #fff;
 }
 
 form button {

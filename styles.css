@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #fff;
-    color: #fff;
+    color: #000;
     background-image: url('images/background.jpg');
     background-size: cover;
     background-position: center;
@@ -60,7 +60,7 @@ form textarea {
     font-size: 1em;
     border: 1px solid #ccc;
     border-radius: 5px;
-    color: #fff;
+    color: #000;
 }
 
 form button {

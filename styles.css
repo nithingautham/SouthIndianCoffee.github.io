@@ -124,3 +124,12 @@ button.cta {
 button.cta:hover {
     background-color: #555;
 }
+
+.columns {
+    display: flex;
+}
+
+.column {
+    flex: 1;
+    padding: 20px;
+}

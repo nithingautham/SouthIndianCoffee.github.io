@@ -133,3 +133,8 @@ button.cta:hover {
     flex: 1;
     padding: 20px;
 }
+
+.about-coffee,
+.why-choose-us {
+    text-align: center;
+}

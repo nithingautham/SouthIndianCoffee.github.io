@@ -138,3 +138,8 @@ button.cta:hover {
 .why-choose-us {
     text-align: center;
 }
+
+input,
+textarea {
+    color: #000;
+}
